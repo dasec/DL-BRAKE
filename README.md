@@ -3,11 +3,11 @@
 
 ### Installation & Dependencies
 
-Follow the following steps to install `BRAKE`:
+Follow the following steps to install `DL-BRAKE`:
 
 ```bash
-git clone https://github.com/dasec/BRAKE
-cd brake
+git clone https://github.com/dasec/DL-BRAKE
+cd DL-BRAKE
 ./install.sh
 ```
 
