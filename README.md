@@ -3,7 +3,7 @@
 
 ### Installation & Dependencies
 
-Follow the following steps to install `DL-BRAKE`:
+Follow the following steps to install `DL-BRAKE` (IF ALSO TESTING PQ-BRAKE, please use the install script from that repository; PQ-BRAKE has the same setup script only with a few aditions, it will work for both versions):
 
 ```bash
 git clone https://github.com/dasec/DL-BRAKE
