@@ -1,5 +1,5 @@
-# BRAKE
-## Biometric Resilient Authenticated Key Exchange
+# DL-BRAKE
+## Discrete Logarithm - Biometric Resilient Authenticated Key Exchange
 
 ### Installation & Dependencies
 
